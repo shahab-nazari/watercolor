@@ -18,7 +18,7 @@ You can include Watercolor.js in your project via CDN or by downloading the scri
 
 ### Via CDN
 ```html
-<script src="https://cdn.jsdelivr.net/npm/watercolor-js@2.0.0/dist/watercolor.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/shahab-nazari/watercolor/watercolor.js"></script>
 ```
 
 ### Via Local File
